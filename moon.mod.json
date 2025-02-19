@@ -2,9 +2,9 @@
   "name": "justjoheinz/iso-country",
   "version": "0.1.0",
   "readme": "README.md",
-  "repository": "",
+  "repository": "https://github.com/justjoheinz/iso-country",
   "license": "Apache-2.0",
-  "keywords": [],
-  "description": "",
+  "keywords": ["iso", "country", "countries", "iso3166"],
+  "description": "A list of country codes and names in ISO 3166 format",
   "source": "src"
 }
